@@ -1,0 +1,14 @@
+#!/bin/bash
+
+requests
+lxml
+selenium
+pyunitreport
+beautifulsoup4
+jupyter
+spacy
+pandas
+numpy
+matplotlib
+seaborn
+nltk
