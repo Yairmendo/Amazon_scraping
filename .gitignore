@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+.vscode/
+reports/
+venv/
+XPATH.txt
+geckodriver.log
+amazon_up.sh
